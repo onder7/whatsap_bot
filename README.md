@@ -32,7 +32,7 @@ Bu bot, WhatsApp üzerinde çalışan basit ve kullanışlı bir bot uygulaması
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/[kullanıcı-adı]/whatsapp-bot.git
+git clone https://github.com/onder7/whatsapp-bot.git
 cd whatsapp-bot
 ```
 
@@ -108,8 +108,8 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-- GitHub: [@kullanıcı-adı](https://github.com/[kullanıcı-adı])
-- E-posta: ornek@email.com
+Teknik destek için onder7@gmail.com iletişime geçin.
+Önder AKÖZ / System & Network Specialist
 
 ## 🔗 Bağlantılar
 
